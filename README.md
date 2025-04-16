@@ -1,2 +1,2 @@
 # sql
- Projeto de uma tela de cadastro simples com conexao de bando de data que insere ou excluir dados
+ Tela de conexao com banco de dados e tela de cadastro com insert e exclusao
